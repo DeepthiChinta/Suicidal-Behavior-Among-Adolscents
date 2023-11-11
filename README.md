@@ -25,3 +25,6 @@ The following attributes are considered in the model for predicting suicidal beh
 - **Bullying Experience:** Examining the influence of bullying experiences on the likelihood of suicidal behavior.
 
 - **Presence of Close Friends:** Understanding the role of social connections in reducing the risk of adolescent suicide.
+
+# Machine Learning Model
+The ML model utilizes advanced algorithms to analyze patterns within the dataset and make predictions based on the provided attributes. The goal is to create a predictive tool that can assist in identifying potential risk factors for suicidal behavior among adolescents.
